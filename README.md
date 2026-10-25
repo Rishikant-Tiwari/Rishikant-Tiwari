@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Custom banner: change the colors or title in the URL if you want a different look -->
+<!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Rishikant%20Tiwari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=M.Tech%20CSE%20%7C%20MERN%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Rishikant Tiwari profile banner" />
 
 # Hi 👋, I'm Rishikant Tiwari
@@ -9,8 +9,15 @@
 
 I enjoy building web applications, learning modern technologies, and turning ideas into useful projects.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Rishikant--Tiwari-181717?style=for-the-badge&logo=github)](https://github.com/Rishikant-Tiwari)
+[![GitHub](https://img.shields.io/badge/GitHub-Rishikant--Tiwari-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishikant-Tiwari)
 [![Profile Views](https://komarev.com/ghpvc/?username=Rishikant-Tiwari&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge)](https://github.com/Rishikant-Tiwari)
+
+<a href="https://www.linkedin.com/in/rishikant-tiwari-ab3ab1293/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+</a>
+<a href="https://www.instagram.com/y._its_rishi_tiw_.y/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" />
+</a>
 
 </div>
 
@@ -63,9 +70,19 @@ I enjoy building web applications, learning modern technologies, and turning ide
 
 ## 🤝 Connect with Me
 
-- **GitHub:** [@Rishikant-Tiwari](https://github.com/Rishikant-Tiwari)
-- **LinkedIn:** Add your LinkedIn profile URL here
-- **Email:** Add a public contact email here, if you want to share one
+<div align="left">
+
+<a href="https://github.com/Rishikant-Tiwari">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/rishikant-tiwari-ab3ab1293/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/y._its_rishi_tiw_.y/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+</div>
 
 ---
 
